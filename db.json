@@ -18,40 +18,5 @@
                 "price": 0
             }
         ]
-    },
-    {
-        "label": "Pass Voix",
-        "products": [
-            {
-                "passId": "81008",
-                "label": "60 min Arabie Saoudite",
-                "price": 0
-            },
-            {
-                "passId": "81004",
-                "label": "30 min Amérique",
-                "price": 0
-            },
-            {
-                "passId": "81005",
-                "label": "60 min Amérique",
-                "price": 0
-            },
-            {
-                "passId": "81002",
-                "label": "60 min Europe",
-                "price": 0
-            },
-            {
-                "passId": "81003",
-                "label": "15 min Amérique",
-                "price": 0
-            },
-            {
-                "passId": "81000",
-                "label": "15 min Europe",
-                "price": 0
-            }
-        ]
     }
 ]
