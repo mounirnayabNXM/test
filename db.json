@@ -1,4 +1,107 @@
-{
-  "id": 1,
-  "title": "hello"
+[
+	{
+    "label": "Offre 1",
+    "labelAr": "عرض 1",
+    "price": "75 DH",
+    "voiceBalance": "8 heures nationnales et internationnales",
+    "smsBalance": "200 SMS",
+    "dataBalance": "4 G0",
+    "bonus": "Free for Neoxia Testing",
+    "socialMedias": [
+        {
+            "id": 1,
+            "label": "WhatsApp",
+            "code": "WhatsApp",
+            "icon": null
+        },
+        {
+            "id": 2,
+            "label": "Facebook",
+            "code": "Facebook",
+            "icon": null
+        }
+    ]
+	},
+	{
+    "label": "Offre 2",
+    "labelAr": "عرض 2",
+    "price": "100 DH",
+    "voiceBalance": "15 heures nationnales et internationnales",
+    "smsBalance": "500 SMS",
+    "dataBalance": "15 G0",
+    "bonus": "Free for Neoxia Testing",
+    "socialMedias": [
+        {
+            "id": 1,
+            "label": "WhatsApp",
+            "code": "WhatsApp",
+            "icon": null
+        },
+        {
+            "id": 2,
+            "label": "Facebook",
+            "code": "Facebook",
+            "icon": null
+        },
+        {
+            "id": 3,
+            "label": "Intagram",
+            "code": "Intagram",
+            "icon": null
+        },
+        {
+            "id": 4,
+            "label": "Twitter",
+            "code": "Twitter",
+            "icon": null
+        }
+    ]
+	},
+	{
+    "label": "Offre 3",
+    "labelAr": "عرض 3",
+    "price": "150 DH",
+    "voiceBalance": "25 heures nationnales et internationnales",
+    "smsBalance": "1000 SMS",
+    "dataBalance": "20 GO",
+    "bonus": "Free for Neoxia Testing",
+    "socialMedias": [
+        {
+            "id": 1,
+            "label": "WhatsApp",
+            "code": "WhatsApp",
+            "icon": null
+        },
+        {
+            "id": 2,
+            "label": "Facebook",
+            "code": "Facebook",
+            "icon": null
+        },
+        {
+            "id": 3,
+            "label": "Intagram",
+            "code": "Intagram",
+            "icon": null
+        },
+        {
+            "id": 4,
+            "label": "Twitter",
+            "code": "Twitter",
+            "icon": null
+        },
+        {
+            "id": 5,
+            "label": "Snapchat",
+            "code": "Snapchat",
+            "icon": null
+        },
+        {
+            "id": 6,
+            "label": "LinkedIn",
+            "code": "LinkedIn",
+            "icon": null
+        }
+    ]
 }
+]
